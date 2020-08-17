@@ -4,7 +4,7 @@
 The purpose of this project is to finish a React front-end challenge.
 
 ## How to Execute
-It's possible to execute the project as above:
+It's possible to execute the project as follow:
 
 1- `yarn` - to execute the installation of the libs
 
