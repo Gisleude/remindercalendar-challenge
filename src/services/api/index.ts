@@ -4,7 +4,7 @@ async function getResponseFromAPI(
   city: string,
   date: string,
 ): Promise<AxiosResponse> {
-  const apiKey = '5ec9c29aa2e34b59a3f04134201608';
+  const apiKey = '';
 
   const response = await axios.get(
     // `pro.openweathermap.org/data/2.5/forecast/hourly?q=${city}&appid=fae4200413ec914488121a3e90dcd3c1`,
